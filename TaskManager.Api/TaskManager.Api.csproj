@@ -15,8 +15,4 @@
     <ProjectReference Include="..\TaskManager.Communication\TaskManager.Communication.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
